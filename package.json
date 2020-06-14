@@ -1,0 +1,28 @@
+{
+  "fitbit": {
+    "appUUID": "49fdafed-6913-4119-bfb2-12deda88f081",
+    "appType": "app",
+    "appDisplayName": "HR-Meter",
+    "iconFile": "resources/icon.png",
+    "wipeColor": "#673ab7",
+    "requestedPermissions": [
+      "access_heart_rate",
+      "access_activity",
+      "access_user_profile",
+      "access_location",
+      "access_exercise"
+    ],
+    "buildTargets": [
+      "meson"
+    ],
+    "i18n": {
+      "en": {
+        "name": "HR-Meter"
+      }
+    },
+    "defaultLanguage": "en-US"
+  },
+  "devDependencies": {
+    "@fitbit/sdk": "~4.1.0"
+  }
+}

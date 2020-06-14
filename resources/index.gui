@@ -1,0 +1,10 @@
+<svg>
+  <text id="hrm" x="0" y="30%" class="large-value">000</text>
+  <text id="type" x="65%" y="30%" class="updated">XX</text>
+  <text id="pace" x="0" y="52%" class="updated">00.0000</text>
+  <text id="partialtime" x="0" y="72%" class="updated">000:00</text>
+  <text id="totaltime" x="70%" y="72%" class="small_updated">/000:00 </text>
+  <text id="distance" x="0" y="92%" class="updated">00000</text>
+  <text id="cmdtop" x="65%" y="12%" class="commands" pointer-events="visible">Finish</text>
+  <text id="cmdbotton" x="65%" y="92%" class="commands" pointer-events="visible">Start </text>
+</svg>

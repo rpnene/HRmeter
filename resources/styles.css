@@ -1,0 +1,27 @@
+svg {
+  viewport-fill: black;
+}
+
+.commands {
+  font-family: Seville-Book;
+  font-size: 32;
+  fill: #fcfcfc;
+}
+
+.large-value {
+  font-family: Seville-Book;
+  font-size: 120;
+  fill: #F80070;
+}
+
+.updated {
+  font-family: Seville-Book;
+  font-size: 64;
+  fill: #fd6400;
+}
+
+.small_updated {
+  font-family: Seville-Book;
+  font-size: 32;
+  fill: #fd6400;
+}
