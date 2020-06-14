@@ -1,10 +1,6 @@
 # HR Meter
 
-Fitbit SDK example application which displays readings from the Heart Rate
-sensor.
-
-Find out more information on the
-[Fitbit Developer Website](https://dev.fitbit.com).
+Fitbit app for run trainning using Heart Rate zones. In this version you need to input your heart rates and your trainning in the array inside the code.  
 
 ## License
 
